@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "baseURL": "https://cdn.jsdelivr.net/gh/osmanurkac/spacely-furniture-cdn@main/",
   "categories": [
     {
@@ -483,6 +483,114 @@
       "file": "models/chair_papasan.usdz",
       "thumb": "thumbs/chair_papasan.jpg",
       "width": 0.95,
+      "rotX": -90.0
+    },
+    {
+      "id": "cabinet_wardrobe",
+      "category": "cabinet",
+      "title": "Gardırop",
+      "file": "models/cabinet_wardrobe.usdz",
+      "thumb": "thumbs/cabinet_wardrobe.jpg",
+      "width": 1.2,
+      "rotX": -90.0
+    },
+    {
+      "id": "cabinet_tv",
+      "category": "cabinet",
+      "title": "TV Ünitesi",
+      "file": "models/cabinet_tv.usdz",
+      "thumb": "thumbs/cabinet_tv.jpg",
+      "width": 1.6,
+      "rotX": -90.0
+    },
+    {
+      "id": "cabinet_bookshelf",
+      "category": "cabinet",
+      "title": "Kitaplık",
+      "file": "models/cabinet_bookshelf.usdz",
+      "thumb": "thumbs/cabinet_bookshelf.jpg",
+      "width": 0.9,
+      "rotX": -90.0
+    },
+    {
+      "id": "cabinet_sideboard",
+      "category": "cabinet",
+      "title": "Büfe",
+      "file": "models/cabinet_sideboard.usdz",
+      "thumb": "thumbs/cabinet_sideboard.jpg",
+      "width": 1.6,
+      "rotX": -90.0
+    },
+    {
+      "id": "cabinet_dresser",
+      "category": "cabinet",
+      "title": "Şifonyer",
+      "file": "models/cabinet_dresser.usdz",
+      "thumb": "thumbs/cabinet_dresser.jpg",
+      "width": 1.2,
+      "rotX": -90.0
+    },
+    {
+      "id": "cabinet_nightstand",
+      "category": "cabinet",
+      "title": "Komodin",
+      "file": "models/cabinet_nightstand.usdz",
+      "thumb": "thumbs/cabinet_nightstand.jpg",
+      "width": 0.5,
+      "rotX": -90.0
+    },
+    {
+      "id": "cabinet_display",
+      "category": "cabinet",
+      "title": "Vitrin",
+      "file": "models/cabinet_display.usdz",
+      "thumb": "thumbs/cabinet_display.jpg",
+      "width": 0.9,
+      "rotX": -90.0
+    },
+    {
+      "id": "cabinet_shoe",
+      "category": "cabinet",
+      "title": "Ayakkabılık",
+      "file": "models/cabinet_shoe.usdz",
+      "thumb": "thumbs/cabinet_shoe.jpg",
+      "width": 0.8,
+      "rotX": -90.0
+    },
+    {
+      "id": "cabinet_pantry",
+      "category": "cabinet",
+      "title": "Kiler Dolabı",
+      "file": "models/cabinet_pantry.usdz",
+      "thumb": "thumbs/cabinet_pantry.jpg",
+      "width": 0.9,
+      "rotX": -90.0
+    },
+    {
+      "id": "cabinet_industrial",
+      "category": "cabinet",
+      "title": "Endüstriyel Dolap",
+      "file": "models/cabinet_industrial.usdz",
+      "thumb": "thumbs/cabinet_industrial.jpg",
+      "width": 1.0,
+      "rotX": -90.0
+    },
+    {
+      "id": "cabinet_rattan",
+      "category": "cabinet",
+      "title": "Rattan Dolap",
+      "file": "models/cabinet_rattan.usdz",
+      "thumb": "thumbs/cabinet_rattan.jpg",
+      "width": 1.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "cabinet_bar",
+      "category": "cabinet",
+      "title": "Bar Dolabı",
+      "file": "models/cabinet_bar.usdz",
+      "thumb": "thumbs/cabinet_bar.jpg",
+      "width": 1.0,
       "rotX": -90.0
     }
   ]
