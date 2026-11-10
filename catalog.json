@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "baseURL": "https://cdn.jsdelivr.net/gh/osmanurkac/spacely-furniture-cdn@main/",
   "categories": [
     {
@@ -44,15 +44,6 @@
     }
   ],
   "items": [
-    {
-      "id": "plant",
-      "category": "plant",
-      "title": "Saksı Bitki",
-      "file": "models/plant.usdz",
-      "thumb": "thumbs/plant.jpg",
-      "width": 0.7,
-      "rotX": -90
-    },
     {
       "id": "sofa_modern",
       "category": "sofa",
@@ -808,6 +799,114 @@
       "thumb": "thumbs/rug_shag_cream.jpg",
       "width": 2.3,
       "rotX": 0.0
+    },
+    {
+      "id": "plant_fiddle",
+      "category": "plant",
+      "title": "Fiddle Fig",
+      "file": "models/plant_fiddle.usdz",
+      "thumb": "thumbs/plant_fiddle.jpg",
+      "width": 0.8,
+      "rotX": -90.0
+    },
+    {
+      "id": "plant_monstera",
+      "category": "plant",
+      "title": "Monstera",
+      "file": "models/plant_monstera.usdz",
+      "thumb": "thumbs/plant_monstera.jpg",
+      "width": 0.8,
+      "rotX": -90.0
+    },
+    {
+      "id": "plant_snake",
+      "category": "plant",
+      "title": "Paşa Kılıcı",
+      "file": "models/plant_snake.usdz",
+      "thumb": "thumbs/plant_snake.jpg",
+      "width": 0.5,
+      "rotX": -90.0
+    },
+    {
+      "id": "plant_palm",
+      "category": "plant",
+      "title": "Areka Palmiye",
+      "file": "models/plant_palm.usdz",
+      "thumb": "thumbs/plant_palm.jpg",
+      "width": 0.9,
+      "rotX": -90.0
+    },
+    {
+      "id": "plant_olive",
+      "category": "plant",
+      "title": "Zeytin Ağacı",
+      "file": "models/plant_olive.usdz",
+      "thumb": "thumbs/plant_olive.jpg",
+      "width": 1.0,
+      "rotX": -90.0
+    },
+    {
+      "id": "plant_rubber",
+      "category": "plant",
+      "title": "Kauçuk Bitki",
+      "file": "models/plant_rubber.usdz",
+      "thumb": "thumbs/plant_rubber.jpg",
+      "width": 0.8,
+      "rotX": -90.0
+    },
+    {
+      "id": "plant_bird",
+      "category": "plant",
+      "title": "Cennet Kuşu",
+      "file": "models/plant_bird.usdz",
+      "thumb": "thumbs/plant_bird.jpg",
+      "width": 0.9,
+      "rotX": -90.0
+    },
+    {
+      "id": "plant_pothos",
+      "category": "plant",
+      "title": "Sarmaşık",
+      "file": "models/plant_pothos.usdz",
+      "thumb": "thumbs/plant_pothos.jpg",
+      "width": 0.6,
+      "rotX": -90.0
+    },
+    {
+      "id": "plant_cactus",
+      "category": "plant",
+      "title": "Kaktüs",
+      "file": "models/plant_cactus.usdz",
+      "thumb": "thumbs/plant_cactus.jpg",
+      "width": 0.5,
+      "rotX": -90.0
+    },
+    {
+      "id": "plant_bonsai",
+      "category": "plant",
+      "title": "Bonsai",
+      "file": "models/plant_bonsai.usdz",
+      "thumb": "thumbs/plant_bonsai.jpg",
+      "width": 0.5,
+      "rotX": -90.0
+    },
+    {
+      "id": "plant_fern",
+      "category": "plant",
+      "title": "Boston Eğreltisi",
+      "file": "models/plant_fern.usdz",
+      "thumb": "thumbs/plant_fern.jpg",
+      "width": 0.6,
+      "rotX": -90.0
+    },
+    {
+      "id": "plant_succulent",
+      "category": "plant",
+      "title": "Sukulent",
+      "file": "models/plant_succulent.usdz",
+      "thumb": "thumbs/plant_succulent.jpg",
+      "width": 0.4,
+      "rotX": -90.0
     }
   ]
 }
