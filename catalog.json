@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "baseURL": "https://cdn.jsdelivr.net/gh/osmanurkac/spacely-furniture-cdn@main/",
+  "categories": [
+    { "id": "sofa",    "title": "Koltuk",   "symbol": "sofa.fill" },
+    { "id": "bed",     "title": "Yatak",    "symbol": "bed.double.fill" },
+    { "id": "table",   "title": "Masa",     "symbol": "table.furniture.fill" },
+    { "id": "chair",   "title": "Sandalye", "symbol": "chair.fill" },
+    { "id": "cabinet", "title": "Dolap",    "symbol": "cabinet.fill" },
+    { "id": "lamp",    "title": "Lamba",    "symbol": "lamp.floor.fill" },
+    { "id": "plant",   "title": "Bitki",    "symbol": "leaf.fill" },
+    { "id": "rug",     "title": "Halı",     "symbol": "rectangle.fill" }
+  ],
+  "items": [
+    { "id": "sofa",  "category": "sofa",  "title": "Modern Koltuk",     "file": "models/sofa.usdz",  "thumb": "thumbs/sofa.jpg",  "width": 1.95, "rotX": -90 },
+    { "id": "sofa2", "category": "sofa",  "title": "Koltuk 2",          "file": "models/sofa2.usdz", "thumb": "thumbs/sofa2.jpg", "width": 1.95, "rotX": -90 },
+    { "id": "bed",   "category": "bed",   "title": "Çift Kişilik Yatak","file": "models/bed.usdz",   "thumb": "thumbs/bed.jpg",   "width": 2.0,  "rotX": -90 },
+    { "id": "table", "category": "table", "title": "Yemek Masası",      "file": "models/table.usdz", "thumb": "thumbs/table.jpg", "width": 1.2,  "rotX": -90 },
+    { "id": "chair", "category": "chair", "title": "Sandalye",          "file": "models/chair.usdz", "thumb": "thumbs/chair.jpg", "width": 0.6,  "rotX": -90 },
+    { "id": "plant", "category": "plant", "title": "Saksı Bitki",       "file": "models/plant.usdz", "thumb": "thumbs/plant.jpg", "width": 0.7,  "rotX": -90 }
+  ]
+}
