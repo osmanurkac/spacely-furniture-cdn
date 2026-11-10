@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "baseURL": "https://cdn.jsdelivr.net/gh/osmanurkac/spacely-furniture-cdn@main/",
   "categories": [
     {
@@ -700,6 +700,114 @@
       "thumb": "thumbs/lamp_marble_arc.jpg",
       "width": 0.6,
       "rotX": -90.0
+    },
+    {
+      "id": "rug_beige_solid",
+      "category": "rug",
+      "title": "Bej Düz",
+      "file": "models/rug_beige_solid.usdz",
+      "thumb": "thumbs/rug_beige_solid.jpg",
+      "width": 2.3,
+      "rotX": 0.0
+    },
+    {
+      "id": "rug_grey_solid",
+      "category": "rug",
+      "title": "Gri Düz",
+      "file": "models/rug_grey_solid.usdz",
+      "thumb": "thumbs/rug_grey_solid.jpg",
+      "width": 2.3,
+      "rotX": 0.0
+    },
+    {
+      "id": "rug_charcoal_solid",
+      "category": "rug",
+      "title": "Antrasit Düz",
+      "file": "models/rug_charcoal_solid.usdz",
+      "thumb": "thumbs/rug_charcoal_solid.jpg",
+      "width": 2.3,
+      "rotX": 0.0
+    },
+    {
+      "id": "rug_stripe",
+      "category": "rug",
+      "title": "Çizgili",
+      "file": "models/rug_stripe.usdz",
+      "thumb": "thumbs/rug_stripe.jpg",
+      "width": 2.3,
+      "rotX": 0.0
+    },
+    {
+      "id": "rug_geometric",
+      "category": "rug",
+      "title": "Geometrik",
+      "file": "models/rug_geometric.usdz",
+      "thumb": "thumbs/rug_geometric.jpg",
+      "width": 2.3,
+      "rotX": 0.0
+    },
+    {
+      "id": "rug_moroccan",
+      "category": "rug",
+      "title": "Fas Deseni",
+      "file": "models/rug_moroccan.usdz",
+      "thumb": "thumbs/rug_moroccan.jpg",
+      "width": 2.3,
+      "rotX": 0.0
+    },
+    {
+      "id": "rug_checker",
+      "category": "rug",
+      "title": "Damalı",
+      "file": "models/rug_checker.usdz",
+      "thumb": "thumbs/rug_checker.jpg",
+      "width": 2.3,
+      "rotX": 0.0
+    },
+    {
+      "id": "rug_border_cream",
+      "category": "rug",
+      "title": "Bordürlü",
+      "file": "models/rug_border_cream.usdz",
+      "thumb": "thumbs/rug_border_cream.jpg",
+      "width": 2.3,
+      "rotX": 0.0
+    },
+    {
+      "id": "rug_persian",
+      "category": "rug",
+      "title": "Acem Halısı",
+      "file": "models/rug_persian.usdz",
+      "thumb": "thumbs/rug_persian.jpg",
+      "width": 2.3,
+      "rotX": 0.0
+    },
+    {
+      "id": "rug_dots",
+      "category": "rug",
+      "title": "Puantiye",
+      "file": "models/rug_dots.usdz",
+      "thumb": "thumbs/rug_dots.jpg",
+      "width": 2.3,
+      "rotX": 0.0
+    },
+    {
+      "id": "rug_sage",
+      "category": "rug",
+      "title": "Adaçayı",
+      "file": "models/rug_sage.usdz",
+      "thumb": "thumbs/rug_sage.jpg",
+      "width": 2.3,
+      "rotX": 0.0
+    },
+    {
+      "id": "rug_shag_cream",
+      "category": "rug",
+      "title": "Krem Shaggy",
+      "file": "models/rug_shag_cream.usdz",
+      "thumb": "thumbs/rug_shag_cream.jpg",
+      "width": 2.3,
+      "rotX": 0.0
     }
   ]
 }
