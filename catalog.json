@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "baseURL": "https://cdn.jsdelivr.net/gh/osmanurkac/spacely-furniture-cdn@main/",
   "categories": [
     {
@@ -591,6 +591,114 @@
       "file": "models/cabinet_bar.usdz",
       "thumb": "thumbs/cabinet_bar.jpg",
       "width": 1.0,
+      "rotX": -90.0
+    },
+    {
+      "id": "lamp_arc",
+      "category": "lamp",
+      "title": "Ark Lambader",
+      "file": "models/lamp_arc.usdz",
+      "thumb": "thumbs/lamp_arc.jpg",
+      "width": 0.6,
+      "rotX": -90.0
+    },
+    {
+      "id": "lamp_tripod",
+      "category": "lamp",
+      "title": "Tripod Lambader",
+      "file": "models/lamp_tripod.usdz",
+      "thumb": "thumbs/lamp_tripod.jpg",
+      "width": 0.5,
+      "rotX": -90.0
+    },
+    {
+      "id": "lamp_ceramic_table",
+      "category": "lamp",
+      "title": "Seramik Abajur",
+      "file": "models/lamp_ceramic_table.usdz",
+      "thumb": "thumbs/lamp_ceramic_table.jpg",
+      "width": 0.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "lamp_floor_black",
+      "category": "lamp",
+      "title": "Siyah Lambader",
+      "file": "models/lamp_floor_black.usdz",
+      "thumb": "thumbs/lamp_floor_black.jpg",
+      "width": 0.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "lamp_pendant",
+      "category": "lamp",
+      "title": "Sarkıt Lamba",
+      "file": "models/lamp_pendant.usdz",
+      "thumb": "thumbs/lamp_pendant.jpg",
+      "width": 0.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "lamp_brass_table",
+      "category": "lamp",
+      "title": "Pirinç Abajur",
+      "file": "models/lamp_brass_table.usdz",
+      "thumb": "thumbs/lamp_brass_table.jpg",
+      "width": 0.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "lamp_globe",
+      "category": "lamp",
+      "title": "Küre Lambader",
+      "file": "models/lamp_globe.usdz",
+      "thumb": "thumbs/lamp_globe.jpg",
+      "width": 0.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "lamp_desk",
+      "category": "lamp",
+      "title": "Masa Lambası",
+      "file": "models/lamp_desk.usdz",
+      "thumb": "thumbs/lamp_desk.jpg",
+      "width": 0.45,
+      "rotX": -90.0
+    },
+    {
+      "id": "lamp_rattan",
+      "category": "lamp",
+      "title": "Rattan Lambader",
+      "file": "models/lamp_rattan.usdz",
+      "thumb": "thumbs/lamp_rattan.jpg",
+      "width": 0.5,
+      "rotX": -90.0
+    },
+    {
+      "id": "lamp_paper",
+      "category": "lamp",
+      "title": "Kağıt Fener",
+      "file": "models/lamp_paper.usdz",
+      "thumb": "thumbs/lamp_paper.jpg",
+      "width": 0.5,
+      "rotX": -90.0
+    },
+    {
+      "id": "lamp_industrial",
+      "category": "lamp",
+      "title": "Endüstriyel Lamba",
+      "file": "models/lamp_industrial.usdz",
+      "thumb": "thumbs/lamp_industrial.jpg",
+      "width": 0.45,
+      "rotX": -90.0
+    },
+    {
+      "id": "lamp_marble_arc",
+      "category": "lamp",
+      "title": "Mermer Ark",
+      "file": "models/lamp_marble_arc.usdz",
+      "thumb": "thumbs/lamp_marble_arc.jpg",
+      "width": 0.6,
       "rotX": -90.0
     }
   ]
