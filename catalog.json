@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "baseURL": "https://cdn.jsdelivr.net/gh/osmanurkac/spacely-furniture-cdn@main/",
   "categories": [
     {
@@ -44,15 +44,6 @@
     }
   ],
   "items": [
-    {
-      "id": "chair",
-      "category": "chair",
-      "title": "Sandalye",
-      "file": "models/chair.usdz",
-      "thumb": "thumbs/chair.jpg",
-      "width": 0.6,
-      "rotX": -90
-    },
     {
       "id": "plant",
       "category": "plant",
@@ -384,6 +375,114 @@
       "file": "models/table_coffee_rattan.usdz",
       "thumb": "thumbs/table_coffee_rattan.jpg",
       "width": 1.0,
+      "rotX": -90.0
+    },
+    {
+      "id": "chair_dining_wood",
+      "category": "chair",
+      "title": "Ahşap Sandalye",
+      "file": "models/chair_dining_wood.usdz",
+      "thumb": "thumbs/chair_dining_wood.jpg",
+      "width": 0.55,
+      "rotX": -90.0
+    },
+    {
+      "id": "chair_accent_velvet",
+      "category": "chair",
+      "title": "Kadife Berjer",
+      "file": "models/chair_accent_velvet.usdz",
+      "thumb": "thumbs/chair_accent_velvet.jpg",
+      "width": 0.78,
+      "rotX": -90.0
+    },
+    {
+      "id": "chair_eames",
+      "category": "chair",
+      "title": "Retro Plastik",
+      "file": "models/chair_eames.usdz",
+      "thumb": "thumbs/chair_eames.jpg",
+      "width": 0.6,
+      "rotX": -90.0
+    },
+    {
+      "id": "chair_wingback",
+      "category": "chair",
+      "title": "Kanatlı Berjer",
+      "file": "models/chair_wingback.usdz",
+      "thumb": "thumbs/chair_wingback.jpg",
+      "width": 0.85,
+      "rotX": -90.0
+    },
+    {
+      "id": "chair_leather_lounge",
+      "category": "chair",
+      "title": "Deri Dinlenme",
+      "file": "models/chair_leather_lounge.usdz",
+      "thumb": "thumbs/chair_leather_lounge.jpg",
+      "width": 0.8,
+      "rotX": -90.0
+    },
+    {
+      "id": "chair_rattan",
+      "category": "chair",
+      "title": "Rattan Sandalye",
+      "file": "models/chair_rattan.usdz",
+      "thumb": "thumbs/chair_rattan.jpg",
+      "width": 0.75,
+      "rotX": -90.0
+    },
+    {
+      "id": "chair_office",
+      "category": "chair",
+      "title": "Ofis Koltuğu",
+      "file": "models/chair_office.usdz",
+      "thumb": "thumbs/chair_office.jpg",
+      "width": 0.65,
+      "rotX": -90.0
+    },
+    {
+      "id": "chair_barstool",
+      "category": "chair",
+      "title": "Bar Taburesi",
+      "file": "models/chair_barstool.usdz",
+      "thumb": "thumbs/chair_barstool.jpg",
+      "width": 0.45,
+      "rotX": -90.0
+    },
+    {
+      "id": "chair_boucle",
+      "category": "chair",
+      "title": "Bouclé Berjer",
+      "file": "models/chair_boucle.usdz",
+      "thumb": "thumbs/chair_boucle.jpg",
+      "width": 0.8,
+      "rotX": -90.0
+    },
+    {
+      "id": "chair_dining_black",
+      "category": "chair",
+      "title": "Metal Sandalye",
+      "file": "models/chair_dining_black.usdz",
+      "thumb": "thumbs/chair_dining_black.jpg",
+      "width": 0.5,
+      "rotX": -90.0
+    },
+    {
+      "id": "chair_recliner",
+      "category": "chair",
+      "title": "Tekli Recliner",
+      "file": "models/chair_recliner.usdz",
+      "thumb": "thumbs/chair_recliner.jpg",
+      "width": 0.85,
+      "rotX": -90.0
+    },
+    {
+      "id": "chair_papasan",
+      "category": "chair",
+      "title": "Papasan",
+      "file": "models/chair_papasan.usdz",
+      "thumb": "thumbs/chair_papasan.jpg",
+      "width": 0.95,
       "rotX": -90.0
     }
   ]
