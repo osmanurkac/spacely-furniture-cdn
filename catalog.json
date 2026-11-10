@@ -1,22 +1,156 @@
 {
-  "version": 1,
+  "version": 2,
   "baseURL": "https://cdn.jsdelivr.net/gh/osmanurkac/spacely-furniture-cdn@main/",
   "categories": [
-    { "id": "sofa",    "title": "Koltuk",   "symbol": "sofa.fill" },
-    { "id": "bed",     "title": "Yatak",    "symbol": "bed.double.fill" },
-    { "id": "table",   "title": "Masa",     "symbol": "table.furniture.fill" },
-    { "id": "chair",   "title": "Sandalye", "symbol": "chair.fill" },
-    { "id": "cabinet", "title": "Dolap",    "symbol": "cabinet.fill" },
-    { "id": "lamp",    "title": "Lamba",    "symbol": "lamp.floor.fill" },
-    { "id": "plant",   "title": "Bitki",    "symbol": "leaf.fill" },
-    { "id": "rug",     "title": "Halı",     "symbol": "rectangle.fill" }
+    {
+      "id": "sofa",
+      "title": "Koltuk",
+      "symbol": "sofa.fill"
+    },
+    {
+      "id": "bed",
+      "title": "Yatak",
+      "symbol": "bed.double.fill"
+    },
+    {
+      "id": "table",
+      "title": "Masa",
+      "symbol": "table.furniture.fill"
+    },
+    {
+      "id": "chair",
+      "title": "Sandalye",
+      "symbol": "chair.fill"
+    },
+    {
+      "id": "cabinet",
+      "title": "Dolap",
+      "symbol": "cabinet.fill"
+    },
+    {
+      "id": "lamp",
+      "title": "Lamba",
+      "symbol": "lamp.floor.fill"
+    },
+    {
+      "id": "plant",
+      "title": "Bitki",
+      "symbol": "leaf.fill"
+    },
+    {
+      "id": "rug",
+      "title": "Halı",
+      "symbol": "rectangle.fill"
+    }
   ],
   "items": [
-    { "id": "sofa",  "category": "sofa",  "title": "Modern Koltuk",     "file": "models/sofa.usdz",  "thumb": "thumbs/sofa.jpg",  "width": 1.95, "rotX": -90 },
-    { "id": "sofa2", "category": "sofa",  "title": "Koltuk 2",          "file": "models/sofa2.usdz", "thumb": "thumbs/sofa2.jpg", "width": 1.95, "rotX": -90 },
-    { "id": "bed",   "category": "bed",   "title": "Çift Kişilik Yatak","file": "models/bed.usdz",   "thumb": "thumbs/bed.jpg",   "width": 2.0,  "rotX": -90 },
-    { "id": "table", "category": "table", "title": "Yemek Masası",      "file": "models/table.usdz", "thumb": "thumbs/table.jpg", "width": 1.2,  "rotX": -90 },
-    { "id": "chair", "category": "chair", "title": "Sandalye",          "file": "models/chair.usdz", "thumb": "thumbs/chair.jpg", "width": 0.6,  "rotX": -90 },
-    { "id": "plant", "category": "plant", "title": "Saksı Bitki",       "file": "models/plant.usdz", "thumb": "thumbs/plant.jpg", "width": 0.7,  "rotX": -90 }
+    {
+      "id": "sofa_modern",
+      "category": "sofa",
+      "title": "Modern Koltuk",
+      "file": "models/sofa_modern.usdz",
+      "thumb": "thumbs/sofa_modern.jpg",
+      "width": 2.1,
+      "rotX": -90
+    },
+    {
+      "id": "sofa_scandi",
+      "category": "sofa",
+      "title": "İskandinav 2'li",
+      "file": "models/sofa_scandi.usdz",
+      "thumb": "thumbs/sofa_scandi.jpg",
+      "width": 1.7,
+      "rotX": -90
+    },
+    {
+      "id": "sofa_chesterfield",
+      "category": "sofa",
+      "title": "Chesterfield",
+      "file": "models/sofa_chesterfield.usdz",
+      "thumb": "thumbs/sofa_chesterfield.jpg",
+      "width": 2.1,
+      "rotX": -90
+    },
+    {
+      "id": "sofa_sectional",
+      "category": "sofa",
+      "title": "L Köşe Koltuk",
+      "file": "models/sofa_sectional.usdz",
+      "thumb": "thumbs/sofa_sectional.jpg",
+      "width": 2.6,
+      "rotX": -90
+    },
+    {
+      "id": "sofa_midcentury",
+      "category": "sofa",
+      "title": "Retro Hardal",
+      "file": "models/sofa_midcentury.usdz",
+      "thumb": "thumbs/sofa_midcentury.jpg",
+      "width": 2.0,
+      "rotX": -90
+    },
+    {
+      "id": "sofa_boucle",
+      "category": "sofa",
+      "title": "Bulut Koltuk",
+      "file": "models/sofa_boucle.usdz",
+      "thumb": "thumbs/sofa_boucle.jpg",
+      "width": 2.0,
+      "rotX": -90
+    },
+    {
+      "id": "sofa_velvet",
+      "category": "sofa",
+      "title": "Yeşil Kadife",
+      "file": "models/sofa_velvet.usdz",
+      "thumb": "thumbs/sofa_velvet.jpg",
+      "width": 2.1,
+      "rotX": -90
+    },
+    {
+      "id": "sofa_navy",
+      "category": "sofa",
+      "title": "Lacivert Klasik",
+      "file": "models/sofa_navy.usdz",
+      "thumb": "thumbs/sofa_navy.jpg",
+      "width": 2.0,
+      "rotX": -90
+    },
+    {
+      "id": "bed",
+      "category": "bed",
+      "title": "Çift Kişilik Yatak",
+      "file": "models/bed.usdz",
+      "thumb": "thumbs/bed.jpg",
+      "width": 2.0,
+      "rotX": -90
+    },
+    {
+      "id": "table",
+      "category": "table",
+      "title": "Yemek Masası",
+      "file": "models/table.usdz",
+      "thumb": "thumbs/table.jpg",
+      "width": 1.2,
+      "rotX": -90
+    },
+    {
+      "id": "chair",
+      "category": "chair",
+      "title": "Sandalye",
+      "file": "models/chair.usdz",
+      "thumb": "thumbs/chair.jpg",
+      "width": 0.6,
+      "rotX": -90
+    },
+    {
+      "id": "plant",
+      "category": "plant",
+      "title": "Saksı Bitki",
+      "file": "models/plant.usdz",
+      "thumb": "thumbs/plant.jpg",
+      "width": 0.7,
+      "rotX": -90
+    }
   ]
 }
