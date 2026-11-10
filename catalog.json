@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "baseURL": "https://cdn.jsdelivr.net/gh/osmanurkac/spacely-furniture-cdn@main/",
   "categories": [
     {
@@ -45,78 +45,6 @@
   ],
   "items": [
     {
-      "id": "sofa_modern",
-      "category": "sofa",
-      "title": "Modern Koltuk",
-      "file": "models/sofa_modern.usdz",
-      "thumb": "thumbs/sofa_modern.jpg",
-      "width": 2.1,
-      "rotX": -90
-    },
-    {
-      "id": "sofa_scandi",
-      "category": "sofa",
-      "title": "İskandinav 2'li",
-      "file": "models/sofa_scandi.usdz",
-      "thumb": "thumbs/sofa_scandi.jpg",
-      "width": 1.7,
-      "rotX": -90
-    },
-    {
-      "id": "sofa_chesterfield",
-      "category": "sofa",
-      "title": "Chesterfield",
-      "file": "models/sofa_chesterfield.usdz",
-      "thumb": "thumbs/sofa_chesterfield.jpg",
-      "width": 2.1,
-      "rotX": -90
-    },
-    {
-      "id": "sofa_sectional",
-      "category": "sofa",
-      "title": "L Köşe Koltuk",
-      "file": "models/sofa_sectional.usdz",
-      "thumb": "thumbs/sofa_sectional.jpg",
-      "width": 2.6,
-      "rotX": -90
-    },
-    {
-      "id": "sofa_midcentury",
-      "category": "sofa",
-      "title": "Retro Hardal",
-      "file": "models/sofa_midcentury.usdz",
-      "thumb": "thumbs/sofa_midcentury.jpg",
-      "width": 2.0,
-      "rotX": -90
-    },
-    {
-      "id": "sofa_boucle",
-      "category": "sofa",
-      "title": "Bulut Koltuk",
-      "file": "models/sofa_boucle.usdz",
-      "thumb": "thumbs/sofa_boucle.jpg",
-      "width": 2.0,
-      "rotX": -90
-    },
-    {
-      "id": "sofa_velvet",
-      "category": "sofa",
-      "title": "Yeşil Kadife",
-      "file": "models/sofa_velvet.usdz",
-      "thumb": "thumbs/sofa_velvet.jpg",
-      "width": 2.1,
-      "rotX": -90
-    },
-    {
-      "id": "sofa_navy",
-      "category": "sofa",
-      "title": "Lacivert Klasik",
-      "file": "models/sofa_navy.usdz",
-      "thumb": "thumbs/sofa_navy.jpg",
-      "width": 2.0,
-      "rotX": -90
-    },
-    {
       "id": "bed",
       "category": "bed",
       "title": "Çift Kişilik Yatak",
@@ -151,6 +79,114 @@
       "thumb": "thumbs/plant.jpg",
       "width": 0.7,
       "rotX": -90
+    },
+    {
+      "id": "sofa_modern",
+      "category": "sofa",
+      "title": "Modern Gri",
+      "file": "models/sofa_modern.usdz",
+      "thumb": "thumbs/sofa_modern.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "sofa_scandi",
+      "category": "sofa",
+      "title": "İskandinav",
+      "file": "models/sofa_scandi.usdz",
+      "thumb": "thumbs/sofa_scandi.jpg",
+      "width": 1.7,
+      "rotX": -90.0
+    },
+    {
+      "id": "sofa_chesterfield",
+      "category": "sofa",
+      "title": "Chesterfield",
+      "file": "models/sofa_chesterfield.usdz",
+      "thumb": "thumbs/sofa_chesterfield.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "sofa_sectional",
+      "category": "sofa",
+      "title": "L Köşe",
+      "file": "models/sofa_sectional.usdz",
+      "thumb": "thumbs/sofa_sectional.jpg",
+      "width": 2.6,
+      "rotX": -90.0
+    },
+    {
+      "id": "sofa_midcentury",
+      "category": "sofa",
+      "title": "Retro Hardal",
+      "file": "models/sofa_midcentury.usdz",
+      "thumb": "thumbs/sofa_midcentury.jpg",
+      "width": 2.0,
+      "rotX": -90.0
+    },
+    {
+      "id": "sofa_boucle",
+      "category": "sofa",
+      "title": "Bulut Bouclé",
+      "file": "models/sofa_boucle.usdz",
+      "thumb": "thumbs/sofa_boucle.jpg",
+      "width": 2.0,
+      "rotX": -90.0
+    },
+    {
+      "id": "sofa_velvet",
+      "category": "sofa",
+      "title": "Yeşil Kadife",
+      "file": "models/sofa_velvet.usdz",
+      "thumb": "thumbs/sofa_velvet.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "sofa_navy",
+      "category": "sofa",
+      "title": "Lacivert Klasik",
+      "file": "models/sofa_navy.usdz",
+      "thumb": "thumbs/sofa_navy.jpg",
+      "width": 2.0,
+      "rotX": -90.0
+    },
+    {
+      "id": "sofa_white_leather",
+      "category": "sofa",
+      "title": "Beyaz Deri",
+      "file": "models/sofa_white_leather.usdz",
+      "thumb": "thumbs/sofa_white_leather.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "sofa_rust_corduroy",
+      "category": "sofa",
+      "title": "Kiremit Fitilli",
+      "file": "models/sofa_rust_corduroy.usdz",
+      "thumb": "thumbs/sofa_rust_corduroy.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "sofa_grey_tufted",
+      "category": "sofa",
+      "title": "Antrasit Kapitone",
+      "file": "models/sofa_grey_tufted.usdz",
+      "thumb": "thumbs/sofa_grey_tufted.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "sofa_blush",
+      "category": "sofa",
+      "title": "Pudra Kadife",
+      "file": "models/sofa_blush.usdz",
+      "thumb": "thumbs/sofa_blush.jpg",
+      "width": 1.8,
+      "rotX": -90.0
     }
   ]
 }
