@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "baseURL": "https://cdn.jsdelivr.net/gh/osmanurkac/spacely-furniture-cdn@main/",
   "categories": [
     {
@@ -44,15 +44,6 @@
     }
   ],
   "items": [
-    {
-      "id": "table",
-      "category": "table",
-      "title": "Yemek Masası",
-      "file": "models/table.usdz",
-      "thumb": "thumbs/table.jpg",
-      "width": 1.2,
-      "rotX": -90
-    },
     {
       "id": "chair",
       "category": "chair",
@@ -285,6 +276,114 @@
       "file": "models/bed_kids.usdz",
       "thumb": "thumbs/bed_kids.jpg",
       "width": 1.9,
+      "rotX": -90.0
+    },
+    {
+      "id": "table_coffee_round_wood",
+      "category": "table",
+      "title": "Yuvarlak Ahşap Sehpa",
+      "file": "models/table_coffee_round_wood.usdz",
+      "thumb": "thumbs/table_coffee_round_wood.jpg",
+      "width": 1.0,
+      "rotX": -90.0
+    },
+    {
+      "id": "table_coffee_glass",
+      "category": "table",
+      "title": "Cam Sehpa",
+      "file": "models/table_coffee_glass.usdz",
+      "thumb": "thumbs/table_coffee_glass.jpg",
+      "width": 1.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "table_coffee_marble",
+      "category": "table",
+      "title": "Mermer Sehpa",
+      "file": "models/table_coffee_marble.usdz",
+      "thumb": "thumbs/table_coffee_marble.jpg",
+      "width": 1.0,
+      "rotX": -90.0
+    },
+    {
+      "id": "table_coffee_liveedge",
+      "category": "table",
+      "title": "Doğal Kenar Sehpa",
+      "file": "models/table_coffee_liveedge.usdz",
+      "thumb": "thumbs/table_coffee_liveedge.jpg",
+      "width": 1.2,
+      "rotX": -90.0
+    },
+    {
+      "id": "table_dining_oak",
+      "category": "table",
+      "title": "Meşe Yemek Masası",
+      "file": "models/table_dining_oak.usdz",
+      "thumb": "thumbs/table_dining_oak.jpg",
+      "width": 1.8,
+      "rotX": -90.0
+    },
+    {
+      "id": "table_dining_round",
+      "category": "table",
+      "title": "Yuvarlak Yemek Masası",
+      "file": "models/table_dining_round.usdz",
+      "thumb": "thumbs/table_dining_round.jpg",
+      "width": 1.2,
+      "rotX": -90.0
+    },
+    {
+      "id": "table_dining_industrial",
+      "category": "table",
+      "title": "Endüstriyel Masa",
+      "file": "models/table_dining_industrial.usdz",
+      "thumb": "thumbs/table_dining_industrial.jpg",
+      "width": 1.8,
+      "rotX": -90.0
+    },
+    {
+      "id": "table_nesting",
+      "category": "table",
+      "title": "İç İçe Sehpa",
+      "file": "models/table_nesting.usdz",
+      "thumb": "thumbs/table_nesting.jpg",
+      "width": 0.8,
+      "rotX": -90.0
+    },
+    {
+      "id": "table_side_drum",
+      "category": "table",
+      "title": "Yan Sehpa",
+      "file": "models/table_side_drum.usdz",
+      "thumb": "thumbs/table_side_drum.jpg",
+      "width": 0.5,
+      "rotX": -90.0
+    },
+    {
+      "id": "table_console",
+      "category": "table",
+      "title": "Konsol Masa",
+      "file": "models/table_console.usdz",
+      "thumb": "thumbs/table_console.jpg",
+      "width": 1.2,
+      "rotX": -90.0
+    },
+    {
+      "id": "table_dining_marble",
+      "category": "table",
+      "title": "Mermer Yemek Masası",
+      "file": "models/table_dining_marble.usdz",
+      "thumb": "thumbs/table_dining_marble.jpg",
+      "width": 1.8,
+      "rotX": -90.0
+    },
+    {
+      "id": "table_coffee_rattan",
+      "category": "table",
+      "title": "Rattan Sehpa",
+      "file": "models/table_coffee_rattan.usdz",
+      "thumb": "thumbs/table_coffee_rattan.jpg",
+      "width": 1.0,
       "rotX": -90.0
     }
   ]
