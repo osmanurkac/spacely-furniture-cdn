@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "baseURL": "https://cdn.jsdelivr.net/gh/osmanurkac/spacely-furniture-cdn@main/",
   "categories": [
     {
@@ -44,15 +44,6 @@
     }
   ],
   "items": [
-    {
-      "id": "bed",
-      "category": "bed",
-      "title": "Çift Kişilik Yatak",
-      "file": "models/bed.usdz",
-      "thumb": "thumbs/bed.jpg",
-      "width": 2.0,
-      "rotX": -90
-    },
     {
       "id": "table",
       "category": "table",
@@ -186,6 +177,114 @@
       "file": "models/sofa_blush.usdz",
       "thumb": "thumbs/sofa_blush.jpg",
       "width": 1.8,
+      "rotX": -90.0
+    },
+    {
+      "id": "bed_uphol_grey",
+      "category": "bed",
+      "title": "Gri Başlıklı",
+      "file": "models/bed_uphol_grey.usdz",
+      "thumb": "thumbs/bed_uphol_grey.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "bed_oak",
+      "category": "bed",
+      "title": "Meşe Platform",
+      "file": "models/bed_oak.usdz",
+      "thumb": "thumbs/bed_oak.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "bed_boucle",
+      "category": "bed",
+      "title": "Bouclé Krem",
+      "file": "models/bed_boucle.usdz",
+      "thumb": "thumbs/bed_boucle.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "bed_leather",
+      "category": "bed",
+      "title": "Deri Kapitone",
+      "file": "models/bed_leather.usdz",
+      "thumb": "thumbs/bed_leather.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "bed_canopy",
+      "category": "bed",
+      "title": "Gölgelikli",
+      "file": "models/bed_canopy.usdz",
+      "thumb": "thumbs/bed_canopy.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "bed_scandi",
+      "category": "bed",
+      "title": "İskandinav",
+      "file": "models/bed_scandi.usdz",
+      "thumb": "thumbs/bed_scandi.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "bed_velvet",
+      "category": "bed",
+      "title": "Yeşil Kadife",
+      "file": "models/bed_velvet.usdz",
+      "thumb": "thumbs/bed_velvet.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "bed_storage",
+      "category": "bed",
+      "title": "Çekmeceli",
+      "file": "models/bed_storage.usdz",
+      "thumb": "thumbs/bed_storage.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "bed_rattan",
+      "category": "bed",
+      "title": "Rattan Başlık",
+      "file": "models/bed_rattan.usdz",
+      "thumb": "thumbs/bed_rattan.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "bed_wing",
+      "category": "bed",
+      "title": "Lacivert Kanat",
+      "file": "models/bed_wing.usdz",
+      "thumb": "thumbs/bed_wing.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "bed_minimal",
+      "category": "bed",
+      "title": "Minimal Beyaz",
+      "file": "models/bed_minimal.usdz",
+      "thumb": "thumbs/bed_minimal.jpg",
+      "width": 2.1,
+      "rotX": -90.0
+    },
+    {
+      "id": "bed_kids",
+      "category": "bed",
+      "title": "Çocuk Yatağı",
+      "file": "models/bed_kids.usdz",
+      "thumb": "thumbs/bed_kids.jpg",
+      "width": 1.9,
       "rotX": -90.0
     }
   ]
