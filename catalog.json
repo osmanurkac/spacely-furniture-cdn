@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "baseURL": "https://cdn.jsdelivr.net/gh/osmanurkac/spacely-furniture-cdn@main/",
   "categories": [
     {
@@ -46,6 +46,11 @@
       "id": "decor",
       "title": "Dekor",
       "symbol": "sparkles"
+    },
+    {
+      "id": "curtain",
+      "title": "Perde",
+      "symbol": "window.shade.closed"
     }
   ],
   "items": [
@@ -1019,6 +1024,114 @@
       "file": "models/decor_pouf.usdz",
       "thumb": "thumbs/decor_pouf.jpg",
       "width": 0.6,
+      "rotX": -90.0
+    },
+    {
+      "id": "curtain_linen_white",
+      "category": "curtain",
+      "title": "Beyaz Keten",
+      "file": "models/curtain_linen_white.usdz",
+      "thumb": "thumbs/curtain_linen_white.jpg",
+      "width": 1.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "curtain_grey",
+      "category": "curtain",
+      "title": "Gri Perde",
+      "file": "models/curtain_grey.usdz",
+      "thumb": "thumbs/curtain_grey.jpg",
+      "width": 1.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "curtain_velvet_navy",
+      "category": "curtain",
+      "title": "Lacivert Kadife",
+      "file": "models/curtain_velvet_navy.usdz",
+      "thumb": "thumbs/curtain_velvet_navy.jpg",
+      "width": 1.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "curtain_sheer",
+      "category": "curtain",
+      "title": "Tül Perde",
+      "file": "models/curtain_sheer.usdz",
+      "thumb": "thumbs/curtain_sheer.jpg",
+      "width": 1.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "curtain_beige",
+      "category": "curtain",
+      "title": "Bej Perde",
+      "file": "models/curtain_beige.usdz",
+      "thumb": "thumbs/curtain_beige.jpg",
+      "width": 1.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "curtain_charcoal",
+      "category": "curtain",
+      "title": "Antrasit Perde",
+      "file": "models/curtain_charcoal.usdz",
+      "thumb": "thumbs/curtain_charcoal.jpg",
+      "width": 1.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "curtain_striped",
+      "category": "curtain",
+      "title": "Çizgili Perde",
+      "file": "models/curtain_striped.usdz",
+      "thumb": "thumbs/curtain_striped.jpg",
+      "width": 1.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "curtain_boho",
+      "category": "curtain",
+      "title": "Boho Perde",
+      "file": "models/curtain_boho.usdz",
+      "thumb": "thumbs/curtain_boho.jpg",
+      "width": 1.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "curtain_sage",
+      "category": "curtain",
+      "title": "Adaçayı Perde",
+      "file": "models/curtain_sage.usdz",
+      "thumb": "thumbs/curtain_sage.jpg",
+      "width": 1.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "curtain_terracotta",
+      "category": "curtain",
+      "title": "Terracotta Perde",
+      "file": "models/curtain_terracotta.usdz",
+      "thumb": "thumbs/curtain_terracotta.jpg",
+      "width": 1.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "curtain_mustard",
+      "category": "curtain",
+      "title": "Hardal Perde",
+      "file": "models/curtain_mustard.usdz",
+      "thumb": "thumbs/curtain_mustard.jpg",
+      "width": 1.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "curtain_dusty_blue",
+      "category": "curtain",
+      "title": "Dumanlı Perde",
+      "file": "models/curtain_dusty_blue.usdz",
+      "thumb": "thumbs/curtain_dusty_blue.jpg",
+      "width": 1.4,
       "rotX": -90.0
     }
   ]
