@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "baseURL": "https://cdn.jsdelivr.net/gh/osmanurkac/spacely-furniture-cdn@main/",
   "categories": [
     {
@@ -41,6 +41,11 @@
       "id": "rug",
       "title": "Halı",
       "symbol": "rectangle.fill"
+    },
+    {
+      "id": "decor",
+      "title": "Dekor",
+      "symbol": "sparkles"
     }
   ],
   "items": [
@@ -906,6 +911,114 @@
       "file": "models/plant_succulent.usdz",
       "thumb": "thumbs/plant_succulent.jpg",
       "width": 0.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "decor_floor_vase",
+      "category": "decor",
+      "title": "Yer Vazosu",
+      "file": "models/decor_floor_vase.usdz",
+      "thumb": "thumbs/decor_floor_vase.jpg",
+      "width": 0.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "decor_mirror",
+      "category": "decor",
+      "title": "Boy Aynası",
+      "file": "models/decor_mirror.usdz",
+      "thumb": "thumbs/decor_mirror.jpg",
+      "width": 0.6,
+      "rotX": -90.0
+    },
+    {
+      "id": "decor_screen",
+      "category": "decor",
+      "title": "Paravan",
+      "file": "models/decor_screen.usdz",
+      "thumb": "thumbs/decor_screen.jpg",
+      "width": 1.5,
+      "rotX": -90.0
+    },
+    {
+      "id": "decor_coat_rack",
+      "category": "decor",
+      "title": "Portmanto",
+      "file": "models/decor_coat_rack.usdz",
+      "thumb": "thumbs/decor_coat_rack.jpg",
+      "width": 0.5,
+      "rotX": -90.0
+    },
+    {
+      "id": "decor_basket",
+      "category": "decor",
+      "title": "Hasır Sepet",
+      "file": "models/decor_basket.usdz",
+      "thumb": "thumbs/decor_basket.jpg",
+      "width": 0.5,
+      "rotX": -90.0
+    },
+    {
+      "id": "decor_sculpture",
+      "category": "decor",
+      "title": "Heykel",
+      "file": "models/decor_sculpture.usdz",
+      "thumb": "thumbs/decor_sculpture.jpg",
+      "width": 0.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "decor_globe",
+      "category": "decor",
+      "title": "Yer Küresi",
+      "file": "models/decor_globe.usdz",
+      "thumb": "thumbs/decor_globe.jpg",
+      "width": 0.5,
+      "rotX": -90.0
+    },
+    {
+      "id": "decor_lantern",
+      "category": "decor",
+      "title": "Fener",
+      "file": "models/decor_lantern.usdz",
+      "thumb": "thumbs/decor_lantern.jpg",
+      "width": 0.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "decor_magazine",
+      "category": "decor",
+      "title": "Dergilik",
+      "file": "models/decor_magazine.usdz",
+      "thumb": "thumbs/decor_magazine.jpg",
+      "width": 0.4,
+      "rotX": -90.0
+    },
+    {
+      "id": "decor_easel",
+      "category": "decor",
+      "title": "Şövale",
+      "file": "models/decor_easel.usdz",
+      "thumb": "thumbs/decor_easel.jpg",
+      "width": 0.7,
+      "rotX": -90.0
+    },
+    {
+      "id": "decor_umbrella",
+      "category": "decor",
+      "title": "Şemsiyelik",
+      "file": "models/decor_umbrella.usdz",
+      "thumb": "thumbs/decor_umbrella.jpg",
+      "width": 0.35,
+      "rotX": -90.0
+    },
+    {
+      "id": "decor_pouf",
+      "category": "decor",
+      "title": "Puf",
+      "file": "models/decor_pouf.usdz",
+      "thumb": "thumbs/decor_pouf.jpg",
+      "width": 0.6,
       "rotX": -90.0
     }
   ]
