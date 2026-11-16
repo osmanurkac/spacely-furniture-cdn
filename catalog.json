@@ -1148,8 +1148,8 @@
       "id": "tv_oak_console",
       "category": "tv",
       "title": "Meşe Konsol",
-      "file": "models/tv_oak_console.usdz",
-      "thumb": "thumbs/tv_oak_console.jpg",
+      "file": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/models/tv_oak_console.usdz",
+      "thumb": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/thumbs/tv_oak_console.jpg",
       "width": 1.5,
       "rotX": 0.0
     },
@@ -1157,8 +1157,8 @@
       "id": "tv_walnut_lowboard",
       "category": "tv",
       "title": "Ceviz Dolap",
-      "file": "models/tv_walnut_lowboard.usdz",
-      "thumb": "thumbs/tv_walnut_lowboard.jpg",
+      "file": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/models/tv_walnut_lowboard.usdz",
+      "thumb": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/thumbs/tv_walnut_lowboard.jpg",
       "width": 1.6,
       "rotX": 0.0
     },
@@ -1166,8 +1166,8 @@
       "id": "tv_white_modern",
       "category": "tv",
       "title": "Beyaz Modern",
-      "file": "models/tv_white_modern.usdz",
-      "thumb": "thumbs/tv_white_modern.jpg",
+      "file": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/models/tv_white_modern.usdz",
+      "thumb": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/thumbs/tv_white_modern.jpg",
       "width": 1.37,
       "rotX": 0.0
     },
@@ -1175,8 +1175,8 @@
       "id": "tv_industrial_metal",
       "category": "tv",
       "title": "Metal Stand",
-      "file": "models/tv_industrial_metal.usdz",
-      "thumb": "thumbs/tv_industrial_metal.jpg",
+      "file": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/models/tv_industrial_metal.usdz",
+      "thumb": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/thumbs/tv_industrial_metal.jpg",
       "width": 1.3,
       "rotX": 0.0
     },
@@ -1184,8 +1184,8 @@
       "id": "tvwall_55",
       "category": "tvWall",
       "title": "Duvar 55\"",
-      "file": "models/tvwall_55.usdz",
-      "thumb": "thumbs/tvwall_55.jpg",
+      "file": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/models/tvwall_55.usdz",
+      "thumb": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/thumbs/tvwall_55.jpg",
       "width": 1.23,
       "rotX": 0.0
     },
@@ -1193,8 +1193,8 @@
       "id": "tvwall_frame",
       "category": "tvWall",
       "title": "Çerçeve TV",
-      "file": "models/tvwall_frame.usdz",
-      "thumb": "thumbs/tvwall_frame.jpg",
+      "file": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/models/tvwall_frame.usdz",
+      "thumb": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/thumbs/tvwall_frame.jpg",
       "width": 1.22,
       "rotX": 0.0
     }
