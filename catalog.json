@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "baseURL": "https://cdn.jsdelivr.net/gh/osmanurkac/spacely-furniture-cdn@main/",
   "categories": [
     {
@@ -71,7 +71,13 @@
       "file": "models/sofa_modern.usdz",
       "thumb": "thumbs/sofa_modern.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Modern Gray",
+        "tr": "Modern Gri",
+        "es": "Gris Moderno",
+        "fr": "Gris Moderne"
+      }
     },
     {
       "id": "sofa_scandi",
@@ -80,7 +86,13 @@
       "file": "models/sofa_scandi.usdz",
       "thumb": "thumbs/sofa_scandi.jpg",
       "width": 1.7,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Scandinavian",
+        "tr": "İskandinav",
+        "es": "Escandinavo",
+        "fr": "Scandinave"
+      }
     },
     {
       "id": "sofa_chesterfield",
@@ -89,7 +101,13 @@
       "file": "models/sofa_chesterfield.usdz",
       "thumb": "thumbs/sofa_chesterfield.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Chesterfield",
+        "tr": "Chesterfield",
+        "es": "Chesterfield",
+        "fr": "Chesterfield"
+      }
     },
     {
       "id": "sofa_sectional",
@@ -98,7 +116,13 @@
       "file": "models/sofa_sectional.usdz",
       "thumb": "thumbs/sofa_sectional.jpg",
       "width": 2.6,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Corner Sofa",
+        "tr": "L Köşe",
+        "es": "Sofá en L",
+        "fr": "Canapé d'Angle"
+      }
     },
     {
       "id": "sofa_midcentury",
@@ -107,7 +131,13 @@
       "file": "models/sofa_midcentury.usdz",
       "thumb": "thumbs/sofa_midcentury.jpg",
       "width": 2.0,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Retro Mustard",
+        "tr": "Retro Hardal",
+        "es": "Mostaza Retro",
+        "fr": "Moutarde Rétro"
+      }
     },
     {
       "id": "sofa_boucle",
@@ -116,7 +146,13 @@
       "file": "models/sofa_boucle.usdz",
       "thumb": "thumbs/sofa_boucle.jpg",
       "width": 2.0,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Cloud Bouclé",
+        "tr": "Bulut Bouclé",
+        "es": "Bouclé Nube",
+        "fr": "Bouclé Nuage"
+      }
     },
     {
       "id": "sofa_velvet",
@@ -125,7 +161,13 @@
       "file": "models/sofa_velvet.usdz",
       "thumb": "thumbs/sofa_velvet.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Green Velvet",
+        "tr": "Yeşil Kadife",
+        "es": "Terciopelo Verde",
+        "fr": "Velours Vert"
+      }
     },
     {
       "id": "sofa_navy",
@@ -134,7 +176,13 @@
       "file": "models/sofa_navy.usdz",
       "thumb": "thumbs/sofa_navy.jpg",
       "width": 2.0,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Navy Classic",
+        "tr": "Lacivert Klasik",
+        "es": "Azul Marino Clásico",
+        "fr": "Marine Classique"
+      }
     },
     {
       "id": "sofa_white_leather",
@@ -143,7 +191,13 @@
       "file": "models/sofa_white_leather.usdz",
       "thumb": "thumbs/sofa_white_leather.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "White Leather",
+        "tr": "Beyaz Deri",
+        "es": "Cuero Blanco",
+        "fr": "Cuir Blanc"
+      }
     },
     {
       "id": "sofa_rust_corduroy",
@@ -152,7 +206,13 @@
       "file": "models/sofa_rust_corduroy.usdz",
       "thumb": "thumbs/sofa_rust_corduroy.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Rust Corduroy",
+        "tr": "Kiremit Fitilli",
+        "es": "Pana Óxido",
+        "fr": "Côtelé Rouille"
+      }
     },
     {
       "id": "sofa_grey_tufted",
@@ -161,7 +221,13 @@
       "file": "models/sofa_grey_tufted.usdz",
       "thumb": "thumbs/sofa_grey_tufted.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Charcoal Tufted",
+        "tr": "Antrasit Kapitone",
+        "es": "Capitoné Antracita",
+        "fr": "Capitonné Anthracite"
+      }
     },
     {
       "id": "sofa_blush",
@@ -170,7 +236,13 @@
       "file": "models/sofa_blush.usdz",
       "thumb": "thumbs/sofa_blush.jpg",
       "width": 1.8,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Blush Velvet",
+        "tr": "Pudra Kadife",
+        "es": "Terciopelo Rosa",
+        "fr": "Velours Rosé"
+      }
     },
     {
       "id": "bed_uphol_grey",
@@ -179,7 +251,13 @@
       "file": "models/bed_uphol_grey.usdz",
       "thumb": "thumbs/bed_uphol_grey.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Gray Upholstered",
+        "tr": "Gri Başlıklı",
+        "es": "Tapizada Gris",
+        "fr": "Tête Grise"
+      }
     },
     {
       "id": "bed_oak",
@@ -188,7 +266,13 @@
       "file": "models/bed_oak.usdz",
       "thumb": "thumbs/bed_oak.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Oak Platform",
+        "tr": "Meşe Platform",
+        "es": "Plataforma Roble",
+        "fr": "Plateforme Chêne"
+      }
     },
     {
       "id": "bed_boucle",
@@ -197,7 +281,13 @@
       "file": "models/bed_boucle.usdz",
       "thumb": "thumbs/bed_boucle.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Cream Bouclé",
+        "tr": "Bouclé Krem",
+        "es": "Bouclé Crema",
+        "fr": "Bouclé Crème"
+      }
     },
     {
       "id": "bed_leather",
@@ -206,7 +296,13 @@
       "file": "models/bed_leather.usdz",
       "thumb": "thumbs/bed_leather.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Tufted Leather",
+        "tr": "Deri Kapitone",
+        "es": "Cuero Capitoné",
+        "fr": "Cuir Capitonné"
+      }
     },
     {
       "id": "bed_canopy",
@@ -215,7 +311,13 @@
       "file": "models/bed_canopy.usdz",
       "thumb": "thumbs/bed_canopy.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Canopy Bed",
+        "tr": "Gölgelikli",
+        "es": "Con Dosel",
+        "fr": "À Baldaquin"
+      }
     },
     {
       "id": "bed_scandi",
@@ -224,7 +326,13 @@
       "file": "models/bed_scandi.usdz",
       "thumb": "thumbs/bed_scandi.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Scandinavian",
+        "tr": "İskandinav",
+        "es": "Escandinavo",
+        "fr": "Scandinave"
+      }
     },
     {
       "id": "bed_velvet",
@@ -233,7 +341,13 @@
       "file": "models/bed_velvet.usdz",
       "thumb": "thumbs/bed_velvet.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Green Velvet",
+        "tr": "Yeşil Kadife",
+        "es": "Terciopelo Verde",
+        "fr": "Velours Vert"
+      }
     },
     {
       "id": "bed_storage",
@@ -242,7 +356,13 @@
       "file": "models/bed_storage.usdz",
       "thumb": "thumbs/bed_storage.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Storage Bed",
+        "tr": "Çekmeceli",
+        "es": "Con Cajones",
+        "fr": "Avec Rangement"
+      }
     },
     {
       "id": "bed_rattan",
@@ -251,7 +371,13 @@
       "file": "models/bed_rattan.usdz",
       "thumb": "thumbs/bed_rattan.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Rattan Headboard",
+        "tr": "Rattan Başlık",
+        "es": "Cabecero Ratán",
+        "fr": "Tête en Rotin"
+      }
     },
     {
       "id": "bed_wing",
@@ -260,7 +386,13 @@
       "file": "models/bed_wing.usdz",
       "thumb": "thumbs/bed_wing.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Navy Wing",
+        "tr": "Lacivert Kanat",
+        "es": "Marino Alado",
+        "fr": "Aile Marine"
+      }
     },
     {
       "id": "bed_minimal",
@@ -269,7 +401,13 @@
       "file": "models/bed_minimal.usdz",
       "thumb": "thumbs/bed_minimal.jpg",
       "width": 2.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Minimal White",
+        "tr": "Minimal Beyaz",
+        "es": "Blanco Minimalista",
+        "fr": "Blanc Minimal"
+      }
     },
     {
       "id": "bed_kids",
@@ -278,7 +416,13 @@
       "file": "models/bed_kids.usdz",
       "thumb": "thumbs/bed_kids.jpg",
       "width": 1.9,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Kids Bed",
+        "tr": "Çocuk Yatağı",
+        "es": "Cama Infantil",
+        "fr": "Lit Enfant"
+      }
     },
     {
       "id": "table_coffee_round_wood",
@@ -287,7 +431,13 @@
       "file": "models/table_coffee_round_wood.usdz",
       "thumb": "thumbs/table_coffee_round_wood.jpg",
       "width": 1.0,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Round Wood",
+        "tr": "Yuvarlak Ahşap Sehpa",
+        "es": "Redonda de Madera",
+        "fr": "Ronde en Bois"
+      }
     },
     {
       "id": "table_coffee_glass",
@@ -296,7 +446,13 @@
       "file": "models/table_coffee_glass.usdz",
       "thumb": "thumbs/table_coffee_glass.jpg",
       "width": 1.1,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Glass Coffee",
+        "tr": "Cam Sehpa",
+        "es": "Centro de Vidrio",
+        "fr": "Basse en Verre"
+      }
     },
     {
       "id": "table_coffee_marble",
@@ -305,7 +461,13 @@
       "file": "models/table_coffee_marble.usdz",
       "thumb": "thumbs/table_coffee_marble.jpg",
       "width": 1.0,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Marble Coffee",
+        "tr": "Mermer Sehpa",
+        "es": "Centro de Mármol",
+        "fr": "Basse en Marbre"
+      }
     },
     {
       "id": "table_coffee_liveedge",
@@ -314,7 +476,13 @@
       "file": "models/table_coffee_liveedge.usdz",
       "thumb": "thumbs/table_coffee_liveedge.jpg",
       "width": 1.2,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Live Edge",
+        "tr": "Doğal Kenar Sehpa",
+        "es": "Borde Natural",
+        "fr": "Bord Naturel"
+      }
     },
     {
       "id": "table_dining_oak",
@@ -323,7 +491,13 @@
       "file": "models/table_dining_oak.usdz",
       "thumb": "thumbs/table_dining_oak.jpg",
       "width": 1.8,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Oak Dining",
+        "tr": "Meşe Yemek Masası",
+        "es": "Comedor de Roble",
+        "fr": "Chêne à Manger"
+      }
     },
     {
       "id": "table_dining_round",
@@ -332,7 +506,13 @@
       "file": "models/table_dining_round.usdz",
       "thumb": "thumbs/table_dining_round.jpg",
       "width": 1.2,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Round Dining",
+        "tr": "Yuvarlak Yemek Masası",
+        "es": "Comedor Redonda",
+        "fr": "Ronde à Manger"
+      }
     },
     {
       "id": "table_dining_industrial",
@@ -341,7 +521,13 @@
       "file": "models/table_dining_industrial.usdz",
       "thumb": "thumbs/table_dining_industrial.jpg",
       "width": 1.8,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Industrial",
+        "tr": "Endüstriyel Masa",
+        "es": "Industrial",
+        "fr": "Industrielle"
+      }
     },
     {
       "id": "table_nesting",
@@ -350,7 +536,13 @@
       "file": "models/table_nesting.usdz",
       "thumb": "thumbs/table_nesting.jpg",
       "width": 0.8,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Nesting Tables",
+        "tr": "İç İçe Sehpa",
+        "es": "Mesas Nido",
+        "fr": "Tables Gigognes"
+      }
     },
     {
       "id": "table_side_drum",
@@ -359,7 +551,13 @@
       "file": "models/table_side_drum.usdz",
       "thumb": "thumbs/table_side_drum.jpg",
       "width": 0.5,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Side Table",
+        "tr": "Yan Sehpa",
+        "es": "Mesa Auxiliar",
+        "fr": "Table d'Appoint"
+      }
     },
     {
       "id": "table_console",
@@ -368,7 +566,13 @@
       "file": "models/table_console.usdz",
       "thumb": "thumbs/table_console.jpg",
       "width": 1.2,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Console",
+        "tr": "Konsol Masa",
+        "es": "Consola",
+        "fr": "Console"
+      }
     },
     {
       "id": "table_dining_marble",
@@ -377,7 +581,13 @@
       "file": "models/table_dining_marble.usdz",
       "thumb": "thumbs/table_dining_marble.jpg",
       "width": 1.8,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Marble Dining",
+        "tr": "Mermer Yemek Masası",
+        "es": "Comedor de Mármol",
+        "fr": "Marbre à Manger"
+      }
     },
     {
       "id": "table_coffee_rattan",
@@ -386,7 +596,13 @@
       "file": "models/table_coffee_rattan.usdz",
       "thumb": "thumbs/table_coffee_rattan.jpg",
       "width": 1.0,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Rattan Coffee",
+        "tr": "Rattan Sehpa",
+        "es": "Centro de Ratán",
+        "fr": "Basse en Rotin"
+      }
     },
     {
       "id": "chair_dining_wood",
@@ -395,7 +611,13 @@
       "file": "models/chair_dining_wood.usdz",
       "thumb": "thumbs/chair_dining_wood.jpg",
       "width": 0.55,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Wood Chair",
+        "tr": "Ahşap Sandalye",
+        "es": "Silla de Madera",
+        "fr": "Chaise en Bois"
+      }
     },
     {
       "id": "chair_accent_velvet",
@@ -404,7 +626,13 @@
       "file": "models/chair_accent_velvet.usdz",
       "thumb": "thumbs/chair_accent_velvet.jpg",
       "width": 0.78,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Velvet Accent",
+        "tr": "Kadife Berjer",
+        "es": "Butaca Terciopelo",
+        "fr": "Fauteuil Velours"
+      }
     },
     {
       "id": "chair_eames",
@@ -413,7 +641,13 @@
       "file": "models/chair_eames.usdz",
       "thumb": "thumbs/chair_eames.jpg",
       "width": 0.6,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Retro Plastic",
+        "tr": "Retro Plastik",
+        "es": "Plástico Retro",
+        "fr": "Plastique Rétro"
+      }
     },
     {
       "id": "chair_wingback",
@@ -422,7 +656,13 @@
       "file": "models/chair_wingback.usdz",
       "thumb": "thumbs/chair_wingback.jpg",
       "width": 0.85,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Wingback",
+        "tr": "Kanatlı Berjer",
+        "es": "Orejero",
+        "fr": "Bergère à Oreilles"
+      }
     },
     {
       "id": "chair_leather_lounge",
@@ -431,7 +671,13 @@
       "file": "models/chair_leather_lounge.usdz",
       "thumb": "thumbs/chair_leather_lounge.jpg",
       "width": 0.8,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Leather Lounge",
+        "tr": "Deri Dinlenme",
+        "es": "Sillón de Cuero",
+        "fr": "Fauteuil Cuir"
+      }
     },
     {
       "id": "chair_rattan",
@@ -440,7 +686,13 @@
       "file": "models/chair_rattan.usdz",
       "thumb": "thumbs/chair_rattan.jpg",
       "width": 0.75,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Rattan Chair",
+        "tr": "Rattan Sandalye",
+        "es": "Silla de Ratán",
+        "fr": "Chaise en Rotin"
+      }
     },
     {
       "id": "chair_office",
@@ -449,7 +701,13 @@
       "file": "models/chair_office.usdz",
       "thumb": "thumbs/chair_office.jpg",
       "width": 0.65,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Office Chair",
+        "tr": "Ofis Koltuğu",
+        "es": "Silla de Oficina",
+        "fr": "Chaise de Bureau"
+      }
     },
     {
       "id": "chair_barstool",
@@ -458,7 +716,13 @@
       "file": "models/chair_barstool.usdz",
       "thumb": "thumbs/chair_barstool.jpg",
       "width": 0.45,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Bar Stool",
+        "tr": "Bar Taburesi",
+        "es": "Taburete de Bar",
+        "fr": "Tabouret de Bar"
+      }
     },
     {
       "id": "chair_boucle",
@@ -467,7 +731,13 @@
       "file": "models/chair_boucle.usdz",
       "thumb": "thumbs/chair_boucle.jpg",
       "width": 0.8,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Bouclé Accent",
+        "tr": "Bouclé Berjer",
+        "es": "Butaca Bouclé",
+        "fr": "Fauteuil Bouclé"
+      }
     },
     {
       "id": "chair_dining_black",
@@ -476,7 +746,13 @@
       "file": "models/chair_dining_black.usdz",
       "thumb": "thumbs/chair_dining_black.jpg",
       "width": 0.5,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Metal Chair",
+        "tr": "Metal Sandalye",
+        "es": "Silla de Metal",
+        "fr": "Chaise Métal"
+      }
     },
     {
       "id": "chair_recliner",
@@ -485,7 +761,13 @@
       "file": "models/chair_recliner.usdz",
       "thumb": "thumbs/chair_recliner.jpg",
       "width": 0.85,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Recliner",
+        "tr": "Tekli Recliner",
+        "es": "Reclinable",
+        "fr": "Fauteuil Inclinable"
+      }
     },
     {
       "id": "chair_papasan",
@@ -494,7 +776,13 @@
       "file": "models/chair_papasan.usdz",
       "thumb": "thumbs/chair_papasan.jpg",
       "width": 0.95,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Papasan",
+        "tr": "Papasan",
+        "es": "Papasan",
+        "fr": "Papasan"
+      }
     },
     {
       "id": "cabinet_wardrobe",
@@ -503,7 +791,13 @@
       "file": "models/cabinet_wardrobe.usdz",
       "thumb": "thumbs/cabinet_wardrobe.jpg",
       "width": 1.2,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Wardrobe",
+        "tr": "Gardırop",
+        "es": "Armario",
+        "fr": "Armoire"
+      }
     },
     {
       "id": "cabinet_tv",
@@ -512,7 +806,13 @@
       "file": "models/cabinet_tv.usdz",
       "thumb": "thumbs/cabinet_tv.jpg",
       "width": 1.6,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "TV Unit",
+        "tr": "TV Ünitesi",
+        "es": "Mueble de TV",
+        "fr": "Meuble TV"
+      }
     },
     {
       "id": "cabinet_bookshelf",
@@ -521,7 +821,13 @@
       "file": "models/cabinet_bookshelf.usdz",
       "thumb": "thumbs/cabinet_bookshelf.jpg",
       "width": 0.9,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Bookshelf",
+        "tr": "Kitaplık",
+        "es": "Librería",
+        "fr": "Bibliothèque"
+      }
     },
     {
       "id": "cabinet_sideboard",
@@ -530,7 +836,13 @@
       "file": "models/cabinet_sideboard.usdz",
       "thumb": "thumbs/cabinet_sideboard.jpg",
       "width": 1.6,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Sideboard",
+        "tr": "Büfe",
+        "es": "Aparador",
+        "fr": "Buffet"
+      }
     },
     {
       "id": "cabinet_dresser",
@@ -539,7 +851,13 @@
       "file": "models/cabinet_dresser.usdz",
       "thumb": "thumbs/cabinet_dresser.jpg",
       "width": 1.2,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Dresser",
+        "tr": "Şifonyer",
+        "es": "Cómoda",
+        "fr": "Commode"
+      }
     },
     {
       "id": "cabinet_nightstand",
@@ -548,7 +866,13 @@
       "file": "models/cabinet_nightstand.usdz",
       "thumb": "thumbs/cabinet_nightstand.jpg",
       "width": 0.5,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Nightstand",
+        "tr": "Komodin",
+        "es": "Mesita de Noche",
+        "fr": "Table de Chevet"
+      }
     },
     {
       "id": "cabinet_display",
@@ -557,7 +881,13 @@
       "file": "models/cabinet_display.usdz",
       "thumb": "thumbs/cabinet_display.jpg",
       "width": 0.9,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Display Cabinet",
+        "tr": "Vitrin",
+        "es": "Vitrina",
+        "fr": "Vitrine"
+      }
     },
     {
       "id": "cabinet_shoe",
@@ -566,7 +896,13 @@
       "file": "models/cabinet_shoe.usdz",
       "thumb": "thumbs/cabinet_shoe.jpg",
       "width": 0.8,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Shoe Cabinet",
+        "tr": "Ayakkabılık",
+        "es": "Zapatero",
+        "fr": "Meuble à Chaussures"
+      }
     },
     {
       "id": "cabinet_pantry",
@@ -575,7 +911,13 @@
       "file": "models/cabinet_pantry.usdz",
       "thumb": "thumbs/cabinet_pantry.jpg",
       "width": 0.9,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Pantry",
+        "tr": "Kiler Dolabı",
+        "es": "Despensa",
+        "fr": "Garde-Manger"
+      }
     },
     {
       "id": "cabinet_industrial",
@@ -584,7 +926,13 @@
       "file": "models/cabinet_industrial.usdz",
       "thumb": "thumbs/cabinet_industrial.jpg",
       "width": 1.0,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Industrial",
+        "tr": "Endüstriyel Dolap",
+        "es": "Industrial",
+        "fr": "Industriel"
+      }
     },
     {
       "id": "cabinet_rattan",
@@ -593,7 +941,13 @@
       "file": "models/cabinet_rattan.usdz",
       "thumb": "thumbs/cabinet_rattan.jpg",
       "width": 1.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Rattan Cabinet",
+        "tr": "Rattan Dolap",
+        "es": "Mueble de Ratán",
+        "fr": "Meuble en Rotin"
+      }
     },
     {
       "id": "cabinet_bar",
@@ -602,7 +956,13 @@
       "file": "models/cabinet_bar.usdz",
       "thumb": "thumbs/cabinet_bar.jpg",
       "width": 1.0,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Bar Cabinet",
+        "tr": "Bar Dolabı",
+        "es": "Mueble Bar",
+        "fr": "Meuble Bar"
+      }
     },
     {
       "id": "lamp_arc",
@@ -611,7 +971,13 @@
       "file": "models/lamp_arc.usdz",
       "thumb": "thumbs/lamp_arc.jpg",
       "width": 0.6,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Arc Floor Lamp",
+        "tr": "Ark Lambader",
+        "es": "Lámpara Arco",
+        "fr": "Lampadaire Arc"
+      }
     },
     {
       "id": "lamp_tripod",
@@ -620,7 +986,13 @@
       "file": "models/lamp_tripod.usdz",
       "thumb": "thumbs/lamp_tripod.jpg",
       "width": 0.5,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Tripod Lamp",
+        "tr": "Tripod Lambader",
+        "es": "Lámpara Trípode",
+        "fr": "Lampadaire Trépied"
+      }
     },
     {
       "id": "lamp_ceramic_table",
@@ -629,7 +1001,13 @@
       "file": "models/lamp_ceramic_table.usdz",
       "thumb": "thumbs/lamp_ceramic_table.jpg",
       "width": 0.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Ceramic Lamp",
+        "tr": "Seramik Abajur",
+        "es": "Lámpara Cerámica",
+        "fr": "Lampe Céramique"
+      }
     },
     {
       "id": "lamp_floor_black",
@@ -638,7 +1016,13 @@
       "file": "models/lamp_floor_black.usdz",
       "thumb": "thumbs/lamp_floor_black.jpg",
       "width": 0.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Black Floor Lamp",
+        "tr": "Siyah Lambader",
+        "es": "Lámpara de Pie Negra",
+        "fr": "Lampadaire Noir"
+      }
     },
     {
       "id": "lamp_pendant",
@@ -647,7 +1031,13 @@
       "file": "models/lamp_pendant.usdz",
       "thumb": "thumbs/lamp_pendant.jpg",
       "width": 0.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Pendant Light",
+        "tr": "Sarkıt Lamba",
+        "es": "Lámpara Colgante",
+        "fr": "Suspension"
+      }
     },
     {
       "id": "lamp_brass_table",
@@ -656,7 +1046,13 @@
       "file": "models/lamp_brass_table.usdz",
       "thumb": "thumbs/lamp_brass_table.jpg",
       "width": 0.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Brass Lamp",
+        "tr": "Pirinç Abajur",
+        "es": "Lámpara de Latón",
+        "fr": "Lampe Laiton"
+      }
     },
     {
       "id": "lamp_globe",
@@ -665,7 +1061,13 @@
       "file": "models/lamp_globe.usdz",
       "thumb": "thumbs/lamp_globe.jpg",
       "width": 0.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Globe Lamp",
+        "tr": "Küre Lambader",
+        "es": "Lámpara Globo",
+        "fr": "Lampadaire Globe"
+      }
     },
     {
       "id": "lamp_desk",
@@ -674,7 +1076,13 @@
       "file": "models/lamp_desk.usdz",
       "thumb": "thumbs/lamp_desk.jpg",
       "width": 0.45,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Desk Lamp",
+        "tr": "Masa Lambası",
+        "es": "Lámpara de Escritorio",
+        "fr": "Lampe de Bureau"
+      }
     },
     {
       "id": "lamp_rattan",
@@ -683,7 +1091,13 @@
       "file": "models/lamp_rattan.usdz",
       "thumb": "thumbs/lamp_rattan.jpg",
       "width": 0.5,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Rattan Lamp",
+        "tr": "Rattan Lambader",
+        "es": "Lámpara de Ratán",
+        "fr": "Lampadaire Rotin"
+      }
     },
     {
       "id": "lamp_paper",
@@ -692,7 +1106,13 @@
       "file": "models/lamp_paper.usdz",
       "thumb": "thumbs/lamp_paper.jpg",
       "width": 0.5,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Paper Lantern",
+        "tr": "Kağıt Fener",
+        "es": "Farol de Papel",
+        "fr": "Lanterne Papier"
+      }
     },
     {
       "id": "lamp_industrial",
@@ -701,7 +1121,13 @@
       "file": "models/lamp_industrial.usdz",
       "thumb": "thumbs/lamp_industrial.jpg",
       "width": 0.45,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Industrial Lamp",
+        "tr": "Endüstriyel Lamba",
+        "es": "Lámpara Industrial",
+        "fr": "Lampe Industrielle"
+      }
     },
     {
       "id": "lamp_marble_arc",
@@ -710,7 +1136,13 @@
       "file": "models/lamp_marble_arc.usdz",
       "thumb": "thumbs/lamp_marble_arc.jpg",
       "width": 0.6,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Marble Arc",
+        "tr": "Mermer Ark",
+        "es": "Arco de Mármol",
+        "fr": "Arc en Marbre"
+      }
     },
     {
       "id": "rug_beige_solid",
@@ -719,7 +1151,13 @@
       "file": "models/rug_beige_solid.usdz",
       "thumb": "thumbs/rug_beige_solid.jpg",
       "width": 2.3,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "Beige Solid",
+        "tr": "Bej Düz",
+        "es": "Beige Liso",
+        "fr": "Beige Uni"
+      }
     },
     {
       "id": "rug_grey_solid",
@@ -728,7 +1166,13 @@
       "file": "models/rug_grey_solid.usdz",
       "thumb": "thumbs/rug_grey_solid.jpg",
       "width": 2.3,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "Gray Solid",
+        "tr": "Gri Düz",
+        "es": "Gris Liso",
+        "fr": "Gris Uni"
+      }
     },
     {
       "id": "rug_charcoal_solid",
@@ -737,7 +1181,13 @@
       "file": "models/rug_charcoal_solid.usdz",
       "thumb": "thumbs/rug_charcoal_solid.jpg",
       "width": 2.3,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "Charcoal Solid",
+        "tr": "Antrasit Düz",
+        "es": "Antracita Liso",
+        "fr": "Anthracite Uni"
+      }
     },
     {
       "id": "rug_stripe",
@@ -746,7 +1196,13 @@
       "file": "models/rug_stripe.usdz",
       "thumb": "thumbs/rug_stripe.jpg",
       "width": 2.3,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "Striped",
+        "tr": "Çizgili",
+        "es": "Rayas",
+        "fr": "Rayé"
+      }
     },
     {
       "id": "rug_geometric",
@@ -755,7 +1211,13 @@
       "file": "models/rug_geometric.usdz",
       "thumb": "thumbs/rug_geometric.jpg",
       "width": 2.3,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "Geometric",
+        "tr": "Geometrik",
+        "es": "Geométrico",
+        "fr": "Géométrique"
+      }
     },
     {
       "id": "rug_moroccan",
@@ -764,7 +1226,13 @@
       "file": "models/rug_moroccan.usdz",
       "thumb": "thumbs/rug_moroccan.jpg",
       "width": 2.3,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "Moroccan",
+        "tr": "Fas Deseni",
+        "es": "Marroquí",
+        "fr": "Marocain"
+      }
     },
     {
       "id": "rug_checker",
@@ -773,7 +1241,13 @@
       "file": "models/rug_checker.usdz",
       "thumb": "thumbs/rug_checker.jpg",
       "width": 2.3,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "Checkered",
+        "tr": "Damalı",
+        "es": "Cuadros",
+        "fr": "Damier"
+      }
     },
     {
       "id": "rug_border_cream",
@@ -782,7 +1256,13 @@
       "file": "models/rug_border_cream.usdz",
       "thumb": "thumbs/rug_border_cream.jpg",
       "width": 2.3,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "Cream Border",
+        "tr": "Bordürlü",
+        "es": "Borde Crema",
+        "fr": "Bordure Crème"
+      }
     },
     {
       "id": "rug_persian",
@@ -791,7 +1271,13 @@
       "file": "models/rug_persian.usdz",
       "thumb": "thumbs/rug_persian.jpg",
       "width": 2.3,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "Persian",
+        "tr": "Acem Halısı",
+        "es": "Persa",
+        "fr": "Persan"
+      }
     },
     {
       "id": "rug_dots",
@@ -800,7 +1286,13 @@
       "file": "models/rug_dots.usdz",
       "thumb": "thumbs/rug_dots.jpg",
       "width": 2.3,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "Polka Dot",
+        "tr": "Puantiye",
+        "es": "Lunares",
+        "fr": "À Pois"
+      }
     },
     {
       "id": "rug_sage",
@@ -809,7 +1301,13 @@
       "file": "models/rug_sage.usdz",
       "thumb": "thumbs/rug_sage.jpg",
       "width": 2.3,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "Sage",
+        "tr": "Adaçayı",
+        "es": "Salvia",
+        "fr": "Sauge"
+      }
     },
     {
       "id": "rug_shag_cream",
@@ -818,7 +1316,13 @@
       "file": "models/rug_shag_cream.usdz",
       "thumb": "thumbs/rug_shag_cream.jpg",
       "width": 2.3,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "Cream Shag",
+        "tr": "Krem Shaggy",
+        "es": "Shaggy Crema",
+        "fr": "Shaggy Crème"
+      }
     },
     {
       "id": "plant_fiddle",
@@ -827,7 +1331,13 @@
       "file": "models/plant_fiddle.usdz",
       "thumb": "thumbs/plant_fiddle.jpg",
       "width": 0.8,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Fiddle Fig",
+        "tr": "Fiddle Fig",
+        "es": "Ficus Lira",
+        "fr": "Figuier Lyre"
+      }
     },
     {
       "id": "plant_monstera",
@@ -836,7 +1346,13 @@
       "file": "models/plant_monstera.usdz",
       "thumb": "thumbs/plant_monstera.jpg",
       "width": 0.8,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Monstera",
+        "tr": "Monstera",
+        "es": "Monstera",
+        "fr": "Monstera"
+      }
     },
     {
       "id": "plant_snake",
@@ -845,7 +1361,13 @@
       "file": "models/plant_snake.usdz",
       "thumb": "thumbs/plant_snake.jpg",
       "width": 0.5,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Snake Plant",
+        "tr": "Paşa Kılıcı",
+        "es": "Sansevieria",
+        "fr": "Sansevière"
+      }
     },
     {
       "id": "plant_palm",
@@ -854,7 +1376,13 @@
       "file": "models/plant_palm.usdz",
       "thumb": "thumbs/plant_palm.jpg",
       "width": 0.9,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Areca Palm",
+        "tr": "Areka Palmiye",
+        "es": "Palmera Areca",
+        "fr": "Palmier Areca"
+      }
     },
     {
       "id": "plant_olive",
@@ -863,7 +1391,13 @@
       "file": "models/plant_olive.usdz",
       "thumb": "thumbs/plant_olive.jpg",
       "width": 1.0,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Olive Tree",
+        "tr": "Zeytin Ağacı",
+        "es": "Olivo",
+        "fr": "Olivier"
+      }
     },
     {
       "id": "plant_rubber",
@@ -872,7 +1406,13 @@
       "file": "models/plant_rubber.usdz",
       "thumb": "thumbs/plant_rubber.jpg",
       "width": 0.8,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Rubber Plant",
+        "tr": "Kauçuk Bitki",
+        "es": "Ficus Elástica",
+        "fr": "Caoutchouc"
+      }
     },
     {
       "id": "plant_bird",
@@ -881,7 +1421,13 @@
       "file": "models/plant_bird.usdz",
       "thumb": "thumbs/plant_bird.jpg",
       "width": 0.9,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Bird of Paradise",
+        "tr": "Cennet Kuşu",
+        "es": "Ave del Paraíso",
+        "fr": "Oiseau de Paradis"
+      }
     },
     {
       "id": "plant_pothos",
@@ -890,7 +1436,13 @@
       "file": "models/plant_pothos.usdz",
       "thumb": "thumbs/plant_pothos.jpg",
       "width": 0.6,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Pothos",
+        "tr": "Sarmaşık",
+        "es": "Potus",
+        "fr": "Pothos"
+      }
     },
     {
       "id": "plant_cactus",
@@ -899,7 +1451,13 @@
       "file": "models/plant_cactus.usdz",
       "thumb": "thumbs/plant_cactus.jpg",
       "width": 0.5,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Cactus",
+        "tr": "Kaktüs",
+        "es": "Cactus",
+        "fr": "Cactus"
+      }
     },
     {
       "id": "plant_bonsai",
@@ -908,7 +1466,13 @@
       "file": "models/plant_bonsai.usdz",
       "thumb": "thumbs/plant_bonsai.jpg",
       "width": 0.5,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Bonsai",
+        "tr": "Bonsai",
+        "es": "Bonsái",
+        "fr": "Bonsaï"
+      }
     },
     {
       "id": "plant_fern",
@@ -917,7 +1481,13 @@
       "file": "models/plant_fern.usdz",
       "thumb": "thumbs/plant_fern.jpg",
       "width": 0.6,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Boston Fern",
+        "tr": "Boston Eğreltisi",
+        "es": "Helecho de Boston",
+        "fr": "Fougère de Boston"
+      }
     },
     {
       "id": "plant_succulent",
@@ -926,7 +1496,13 @@
       "file": "models/plant_succulent.usdz",
       "thumb": "thumbs/plant_succulent.jpg",
       "width": 0.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Succulent",
+        "tr": "Sukulent",
+        "es": "Suculenta",
+        "fr": "Succulente"
+      }
     },
     {
       "id": "decor_floor_vase",
@@ -935,7 +1511,13 @@
       "file": "models/decor_floor_vase.usdz",
       "thumb": "thumbs/decor_floor_vase.jpg",
       "width": 0.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Floor Vase",
+        "tr": "Yer Vazosu",
+        "es": "Jarrón de Suelo",
+        "fr": "Vase de Sol"
+      }
     },
     {
       "id": "decor_mirror",
@@ -944,7 +1526,13 @@
       "file": "models/decor_mirror.usdz",
       "thumb": "thumbs/decor_mirror.jpg",
       "width": 0.6,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Full-Length Mirror",
+        "tr": "Boy Aynası",
+        "es": "Espejo de Pie",
+        "fr": "Miroir sur Pied"
+      }
     },
     {
       "id": "decor_screen",
@@ -953,7 +1541,13 @@
       "file": "models/decor_screen.usdz",
       "thumb": "thumbs/decor_screen.jpg",
       "width": 1.5,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Room Divider",
+        "tr": "Paravan",
+        "es": "Biombo",
+        "fr": "Paravent"
+      }
     },
     {
       "id": "decor_coat_rack",
@@ -962,7 +1556,13 @@
       "file": "models/decor_coat_rack.usdz",
       "thumb": "thumbs/decor_coat_rack.jpg",
       "width": 0.5,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Coat Rack",
+        "tr": "Portmanto",
+        "es": "Perchero",
+        "fr": "Portemanteau"
+      }
     },
     {
       "id": "decor_basket",
@@ -971,7 +1571,13 @@
       "file": "models/decor_basket.usdz",
       "thumb": "thumbs/decor_basket.jpg",
       "width": 0.5,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Woven Basket",
+        "tr": "Hasır Sepet",
+        "es": "Cesta de Mimbre",
+        "fr": "Panier en Osier"
+      }
     },
     {
       "id": "decor_sculpture",
@@ -980,7 +1586,13 @@
       "file": "models/decor_sculpture.usdz",
       "thumb": "thumbs/decor_sculpture.jpg",
       "width": 0.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Sculpture",
+        "tr": "Heykel",
+        "es": "Escultura",
+        "fr": "Sculpture"
+      }
     },
     {
       "id": "decor_globe",
@@ -989,7 +1601,13 @@
       "file": "models/decor_globe.usdz",
       "thumb": "thumbs/decor_globe.jpg",
       "width": 0.5,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Floor Globe",
+        "tr": "Yer Küresi",
+        "es": "Globo Terráqueo",
+        "fr": "Globe Terrestre"
+      }
     },
     {
       "id": "decor_lantern",
@@ -998,7 +1616,13 @@
       "file": "models/decor_lantern.usdz",
       "thumb": "thumbs/decor_lantern.jpg",
       "width": 0.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Lantern",
+        "tr": "Fener",
+        "es": "Farol",
+        "fr": "Lanterne"
+      }
     },
     {
       "id": "decor_magazine",
@@ -1007,7 +1631,13 @@
       "file": "models/decor_magazine.usdz",
       "thumb": "thumbs/decor_magazine.jpg",
       "width": 0.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Magazine Rack",
+        "tr": "Dergilik",
+        "es": "Revistero",
+        "fr": "Porte-Revues"
+      }
     },
     {
       "id": "decor_easel",
@@ -1016,7 +1646,13 @@
       "file": "models/decor_easel.usdz",
       "thumb": "thumbs/decor_easel.jpg",
       "width": 0.7,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Easel",
+        "tr": "Şövale",
+        "es": "Caballete",
+        "fr": "Chevalet"
+      }
     },
     {
       "id": "decor_umbrella",
@@ -1025,7 +1661,13 @@
       "file": "models/decor_umbrella.usdz",
       "thumb": "thumbs/decor_umbrella.jpg",
       "width": 0.35,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Umbrella Stand",
+        "tr": "Şemsiyelik",
+        "es": "Paragüero",
+        "fr": "Porte-Parapluie"
+      }
     },
     {
       "id": "decor_pouf",
@@ -1034,7 +1676,13 @@
       "file": "models/decor_pouf.usdz",
       "thumb": "thumbs/decor_pouf.jpg",
       "width": 0.6,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Pouf",
+        "tr": "Puf",
+        "es": "Puf",
+        "fr": "Pouf"
+      }
     },
     {
       "id": "curtain_linen_white",
@@ -1043,7 +1691,13 @@
       "file": "models/curtain_linen_white.usdz",
       "thumb": "thumbs/curtain_linen_white.jpg",
       "width": 1.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "White Linen",
+        "tr": "Beyaz Keten",
+        "es": "Lino Blanco",
+        "fr": "Lin Blanc"
+      }
     },
     {
       "id": "curtain_grey",
@@ -1052,7 +1706,13 @@
       "file": "models/curtain_grey.usdz",
       "thumb": "thumbs/curtain_grey.jpg",
       "width": 1.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Gray Curtain",
+        "tr": "Gri Perde",
+        "es": "Cortina Gris",
+        "fr": "Rideau Gris"
+      }
     },
     {
       "id": "curtain_velvet_navy",
@@ -1061,7 +1721,13 @@
       "file": "models/curtain_velvet_navy.usdz",
       "thumb": "thumbs/curtain_velvet_navy.jpg",
       "width": 1.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Navy Velvet",
+        "tr": "Lacivert Kadife",
+        "es": "Terciopelo Marino",
+        "fr": "Velours Marine"
+      }
     },
     {
       "id": "curtain_sheer",
@@ -1070,7 +1736,13 @@
       "file": "models/curtain_sheer.usdz",
       "thumb": "thumbs/curtain_sheer.jpg",
       "width": 1.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Sheer Curtain",
+        "tr": "Tül Perde",
+        "es": "Visillo",
+        "fr": "Voilage"
+      }
     },
     {
       "id": "curtain_beige",
@@ -1079,7 +1751,13 @@
       "file": "models/curtain_beige.usdz",
       "thumb": "thumbs/curtain_beige.jpg",
       "width": 1.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Beige Curtain",
+        "tr": "Bej Perde",
+        "es": "Cortina Beige",
+        "fr": "Rideau Beige"
+      }
     },
     {
       "id": "curtain_charcoal",
@@ -1088,7 +1766,13 @@
       "file": "models/curtain_charcoal.usdz",
       "thumb": "thumbs/curtain_charcoal.jpg",
       "width": 1.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Charcoal Curtain",
+        "tr": "Antrasit Perde",
+        "es": "Cortina Antracita",
+        "fr": "Rideau Anthracite"
+      }
     },
     {
       "id": "curtain_striped",
@@ -1097,7 +1781,13 @@
       "file": "models/curtain_striped.usdz",
       "thumb": "thumbs/curtain_striped.jpg",
       "width": 1.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Striped Curtain",
+        "tr": "Çizgili Perde",
+        "es": "Cortina de Rayas",
+        "fr": "Rideau Rayé"
+      }
     },
     {
       "id": "curtain_boho",
@@ -1106,7 +1796,13 @@
       "file": "models/curtain_boho.usdz",
       "thumb": "thumbs/curtain_boho.jpg",
       "width": 1.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Boho Curtain",
+        "tr": "Boho Perde",
+        "es": "Cortina Boho",
+        "fr": "Rideau Bohème"
+      }
     },
     {
       "id": "curtain_sage",
@@ -1115,7 +1811,13 @@
       "file": "models/curtain_sage.usdz",
       "thumb": "thumbs/curtain_sage.jpg",
       "width": 1.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Sage Curtain",
+        "tr": "Adaçayı Perde",
+        "es": "Cortina Salvia",
+        "fr": "Rideau Sauge"
+      }
     },
     {
       "id": "curtain_terracotta",
@@ -1124,7 +1826,13 @@
       "file": "models/curtain_terracotta.usdz",
       "thumb": "thumbs/curtain_terracotta.jpg",
       "width": 1.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Terracotta Curtain",
+        "tr": "Terracotta Perde",
+        "es": "Cortina Terracota",
+        "fr": "Rideau Terracotta"
+      }
     },
     {
       "id": "curtain_mustard",
@@ -1133,7 +1841,13 @@
       "file": "models/curtain_mustard.usdz",
       "thumb": "thumbs/curtain_mustard.jpg",
       "width": 1.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Mustard Curtain",
+        "tr": "Hardal Perde",
+        "es": "Cortina Mostaza",
+        "fr": "Rideau Moutarde"
+      }
     },
     {
       "id": "curtain_dusty_blue",
@@ -1142,7 +1856,13 @@
       "file": "models/curtain_dusty_blue.usdz",
       "thumb": "thumbs/curtain_dusty_blue.jpg",
       "width": 1.4,
-      "rotX": -90.0
+      "rotX": -90.0,
+      "titles": {
+        "en": "Dusty Blue",
+        "tr": "Dumanlı Perde",
+        "es": "Azul Humo",
+        "fr": "Bleu Fumé"
+      }
     },
     {
       "id": "tv_oak_console",
@@ -1151,7 +1871,13 @@
       "file": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/models/tv_oak_console.usdz",
       "thumb": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/thumbs/tv_oak_console.jpg",
       "width": 1.5,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "Oak Console",
+        "tr": "Meşe Konsol",
+        "es": "Consola Roble",
+        "fr": "Console Chêne"
+      }
     },
     {
       "id": "tv_walnut_lowboard",
@@ -1160,7 +1886,13 @@
       "file": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/models/tv_walnut_lowboard.usdz",
       "thumb": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/thumbs/tv_walnut_lowboard.jpg",
       "width": 1.6,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "Walnut Lowboard",
+        "tr": "Ceviz Dolap",
+        "es": "Mueble Nogal",
+        "fr": "Meuble Noyer"
+      }
     },
     {
       "id": "tv_white_modern",
@@ -1169,7 +1901,13 @@
       "file": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/models/tv_white_modern.usdz",
       "thumb": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/thumbs/tv_white_modern.jpg",
       "width": 1.37,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "White Modern",
+        "tr": "Beyaz Modern",
+        "es": "Blanco Moderno",
+        "fr": "Blanc Moderne"
+      }
     },
     {
       "id": "tv_industrial_metal",
@@ -1178,7 +1916,13 @@
       "file": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/models/tv_industrial_metal.usdz",
       "thumb": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/thumbs/tv_industrial_metal.jpg",
       "width": 1.3,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "Metal Stand",
+        "tr": "Metal Stand",
+        "es": "Soporte Metal",
+        "fr": "Meuble Métal"
+      }
     },
     {
       "id": "tvwall_55",
@@ -1187,7 +1931,13 @@
       "file": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/models/tvwall_55.usdz",
       "thumb": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/thumbs/tvwall_55.jpg",
       "width": 1.23,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "55\" Wall TV",
+        "tr": "Duvar 55\"",
+        "es": "TV de Pared 55\"",
+        "fr": "TV Murale 55\""
+      }
     },
     {
       "id": "tvwall_frame",
@@ -1196,7 +1946,13 @@
       "file": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/models/tvwall_frame.usdz",
       "thumb": "https://raw.githubusercontent.com/osmanurkac/spacely-furniture-cdn/main/thumbs/tvwall_frame.jpg",
       "width": 1.22,
-      "rotX": 0.0
+      "rotX": 0.0,
+      "titles": {
+        "en": "Frame TV",
+        "tr": "Çerçeve TV",
+        "es": "TV Marco",
+        "fr": "TV Cadre"
+      }
     }
   ]
 }
